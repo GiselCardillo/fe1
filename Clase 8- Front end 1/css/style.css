@@ -1,0 +1,30 @@
+/*
+=> Foondos
+=> Iconos
+=> Fuentes
+
+*/
+
+header {
+    background-image: url ('../img/fondo.jpeg')
+    background-repeat: no-repeat;
+    background-color: blue;
+    height: 1000px;
+    background-position: center -50px;
+    background-size: center;
+    background-attachment: fixed;
+
+}
+
+
+.fab {
+    font-size: 40px;
+    color:blue;
+    background-color:burlywood;
+
+}
+
+footer p {
+    text-align: center;
+}
+
